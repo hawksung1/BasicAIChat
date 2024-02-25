@@ -17,6 +17,8 @@ tiktoken = "^0.6.0"
 langchain-openai = "^0.0.7"
 langserve = "^0.0.42"
 langchain-community = "^0.0.24"
+sse-starlette = "^2.0.0"
+anthropic = "^0.16.0"
 
 
 [build-system]
