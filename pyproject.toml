@@ -19,6 +19,8 @@ langserve = "^0.0.42"
 langchain-community = "^0.0.24"
 sse-starlette = "^2.0.0"
 anthropic = "^0.16.0"
+pdfminer = "^20191125"
+pdfminer-six = "^20231228"
 
 
 [build-system]
